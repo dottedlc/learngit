@@ -1,2 +1,2 @@
-这是一个readme.txt文件,我们用git进行添加.
-有添加了一行
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
